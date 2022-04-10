@@ -30,7 +30,7 @@
 
 ##### Rules for Auto Scaling group.
 
-- PI/WEB VMSS --> Scale out (Average) Percentage CPU > 70 / Increase count by 1
+- API and Web VMSS --> Scale out (Average) Percentage CPU > 70 / Increase count by 1
 		 Scale in (Average) Percentage CPU <= 45/ Decrease count by 1
 
 ##### Auto Scaling Extenstion
