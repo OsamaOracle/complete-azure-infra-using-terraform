@@ -22,11 +22,12 @@
 
 
 #### One virtual network 
-- 4 SUBNET 
-- Public  - WEB/API
-- Private  - Queue , Worker , Elastic Search
-- Database Subnet - database mysql
-- Cache subnet - KeyDB 
+**four Subnets like the following:-**
+
+1.  Public  - Will have the WEB/API
+2.  The 1st Private  will have -  Queue , Worker , Elastic Search
+3.  Database Subnet the 2nd Private -  database mysql
+4.  Cache subnet the 3rd private - KeyDB 
 
 ##### Rules for Auto Scaling group.
 
