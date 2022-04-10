@@ -1,4 +1,4 @@
-### This is to setup complete infra bulit on MS Azure
+### This is to setup complete infra bulit on MS Azure like the below
 
 
 ###### OS : Ubuntu 18.04 TLS
